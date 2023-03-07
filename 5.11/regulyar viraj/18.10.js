@@ -1,1 +1,0 @@
-console.log(/^\w+\@\w{1,6}\.\w{1,3}$/.test('tarasovmaks19@gmail.com'))
